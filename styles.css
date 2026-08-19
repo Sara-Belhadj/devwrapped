@@ -1,0 +1,10 @@
+body {
+    color: rgb(245, 242, 242);
+    background-color: rgb(0, 0, 0);
+}
+navbar {
+    background-color: #333;
+    overflow: hidden;
+    text-align: center;
+    text-decoration: none;
+}
